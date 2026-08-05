@@ -34,13 +34,7 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos para for
 
 Além do desenvolvimento de software, produzo beats de Trap, Drill e Boom Bap sob o nome **Prod. C$R**. A produção musical fortaleceu habilidades como criatividade, organização de projetos, edição de áudio e atenção aos detalhes, que também aplico no desenvolvimento de software.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
 ## 📫 Contato
 
-- LinkedIn: [https://linkedin.com/in/SEUUSUARIO](https://www.linkedin.com/in/cesar-vitorino-692373310/)
+- LinkedIn: [https://linkedin.com/in/Cesar Vitorino](https://www.linkedin.com/in/cesar-vitorino-692373310/)
 - E-mail: cvitorino157@gmail.com
