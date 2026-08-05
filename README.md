@@ -46,10 +46,8 @@ Além do desenvolvimento de software, produzo beats de Trap, Drill e Boom Bap so
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cesar-vitorino-692373310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Cesar%20Vitorino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:cvitorino157@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cvitorino157%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="cvitorino157@gmail.com">
   </a>
 </p>
