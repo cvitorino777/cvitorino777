@@ -1,7 +1,9 @@
 # Cesar Vitorino
 
 💻 Estudante de Engenharia de Software
+
 🎵 Music Producer | Prod. C$R
+
 📍 Brasil
 
 ## 🚀 Sobre mim
