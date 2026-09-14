@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento de software e soluções criativas. Além da programação, produzo instrumentais de Trap, Drill e Boom Bap, unindo criatividade e tecnologia em meus projetos.
+Sou estudante de Engenharia de Software, desenvolvimento de software e soluções criativas. Além da programação, produzo músicas, unindo criatividade e tecnologia em meus projetos.
 
 Atualmente também trabalho com logística e SAP, desenvolvendo organização, resolução de problemas e melhoria de processos.
 
@@ -30,7 +30,7 @@ Atualmente também trabalho com logística e SAP, desenvolvendo organização, r
 
 ## 🚀 Objetivos
 
-Atualmente estou focado em evoluir como desenvolvedor, criando projetos para fortalecer meus conhecimentos em HTML, CSS, JavaScript e Git, enquanto avanço na graduação em Engenharia de Software.
+Focado em evoluir como desenvolvedor, criando projetos para fortalecer meus conhecimentos em HTML, CSS, JavaScript por enquanto e seguindo no avanço na graduação em Engenharia de Software.
 
 ## 🎵 Outros projetos
 
